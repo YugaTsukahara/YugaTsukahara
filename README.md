@@ -4,7 +4,7 @@
 <img width="100" height="100" alt="ペンと剣" src="https://github.com/user-attachments/assets/351ba602-f70e-4912-897c-21908916ea20" />
  -The pen is mightier than the sword.-　✍
 
-# I'm YugaTsukahara 👋　塚原　勇雅
+# I'm YugaTsukahara 👋
 
 **AI-assisted Software Developer / Student**  
 **AI活用ソフトウェア開発を学ぶ専門学校生**
